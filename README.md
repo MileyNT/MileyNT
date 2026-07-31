@@ -70,40 +70,7 @@
 
 ---
 
-## 🎨 Main Projects & Visual Gallery
 
-<p align="center">
-  Take a look at some of my featured work, where I combine technology, creativity, and design to turn ideas into visual and functional solutions.
-</p>
-
-<div align="center">
-  <a href="https://github.com/MileyNT">
-    <img src="https://raw.githubusercontent.com/MileyNT/MileyNT/main/assets/project_preview1.png" width="45%" alt="Project Preview 1" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/MileyNT">
-    <img src="https://raw.githubusercontent.com/MileyNT/MileyNT/main/assets/project_preview2.png" width="45%" alt="Project Preview 2" />
-  </a>
-</div>
-
----
-
-## 📌 About Me & Work Ethic
-
-- 🌟 **Responsible & Proactive:** Focused on continuous improvement, adaptability, and detail-oriented results.
-- 🤝 **Collaborative:** Value teamwork and effective communication to deliver efficient projects.
-- 💡 **Creative & Technical:** Bridging the gap between code, data, and visual aesthetics.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MileyNT&show_icons=true&theme=synthwave&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&bg_color=0f172a" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MileyNT&layout=compact&theme=synthwave&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0f172a" width="48%" />
-</div>
-
-<br>
 
 <div align="center">
   <sub>© MileyNT. All rights reserved.</sub>
