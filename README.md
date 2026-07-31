@@ -1,5 +1,5 @@
   <img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhsM2xtcDE5OTM2Y2lpcWVjdHFnZ2QzbGdzdjQzdnNsNDBjZHV3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/e9N6hpqLCDdY1gmHtP/giphy.gif">
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#E1E4E8">Hello, I'm MileyNT🔮.</span></span>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#E1E4E8">Hello, I'm MileyNT 𓏲 ๋࣭ ࣪ ˖🎐.</span></span>
 <span class="line"></span>
 <span class="line"><span style="color:#B392F0;font-weight:bold">Information Technology Student (UDG )</span></span>
 <span class="line"><span style="color:#FFE6FE"><span style="user-select: none;">+</span>I'm in my 7th semester ᯓ★</span></span>
