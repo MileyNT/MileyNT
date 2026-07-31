@@ -14,7 +14,7 @@
 <span class="line"><span style="color:#6A737D"> Jotchua -  Pura Pinche UDG CABRONES</span></span></b></b></b></code></pre><b><b><b>
 <hr>
 <p><a href="https://github.com/MileyNT"> 𓏲 ๋࣭ ࣪ ˖🎐</a>
-Last Edited on: 03/09/2021</p> </b></b></b>
+</p> </b></b></b>
 
 
 
