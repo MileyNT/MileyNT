@@ -10,6 +10,7 @@
 <b>Data Analysis, 
 <b>Digital Design, 
 <b>and Project Management.</b></b></b></b></b></b></span></span><b><b><b>
+<span class="line"><span style="color:#FDAEB7"><span style="user-select: none;">-</span>
 <span class="line"><span style="color:#845CBC">Also, I like Rui Kamishiro  𐔌՞ ܸ.ˬ.ܸ՞𐦯</span></span>
 <span class="line"><span style="color:#6A737D"> Jotchua -  Pura Pinche UDG CABRONES</span></span></b></b></b></code></pre><b><b><b>
 <hr>
