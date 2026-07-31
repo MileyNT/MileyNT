@@ -1,12 +1,21 @@
-# <div align="center"> Hi there, I'm MileyNT! </div>
+  <img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhsM2xtcDE5OTM2Y2lpcWVjdHFnZ2QzbGdzdjQzdnNsNDBjZHV3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/e9N6hpqLCDdY1gmHtP/giphy.gif">
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#E1E4E8">Hello, I'm MileyNT🔮.</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#B392F0;font-weight:bold">Information Technology Student (UDG )</span></span>
+<span class="line"><span style="color:#FFE6FE"><span style="user-select: none;">+</span>I'm in my 7th semester ᯓ★</span></span>
+<span class="line"><span style="color:#FDAEB7"><span style="user-select: none;">-</span>
+<b>I focus on Information Technology, 
+<b>Web Development,
+<b>Programming,
+<b>Data Analysis, 
+<b>Digital Design, 
+<b>and Project Management.</b></b></b></b></b></b></span></span><b><b><b>
+<span class="line"><span style="color:#845CBC">Also, I like Rui Kamishiro  𐔌՞ ܸ.ˬ.ܸ՞𐦯</span></span>
+<span class="line"><span style="color:#6A737D"> Jotchua -  Pura Pinche UDG CABRONES</span></span></b></b></b></code></pre><b><b><b>
+<hr>
+<p><a href="https://github.com/MileyNT"> 𓏲 ๋࣭ ࣪ ˖🎐</a>
+Last Edited on: 03/09/2021</p> </b></b></b>
 
- <p>I focus on
- <b>Information Technology</b>, 
-<b>Web Development</b>,
- <b>Programming</b>,
- <b>Data Analysis</b>,
- <b>Digital Design</b>, and 
-<b>Project Management</b>.</p>
 
 
 <div align="center">
