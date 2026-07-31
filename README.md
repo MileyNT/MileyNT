@@ -1,8 +1,7 @@
 # <div align="center">✨ Hi there, I'm MileyNT! ✨</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MileyNT/MileyNT/main/assets/header_banner.png" alt="MileyNT Header Banner" width="100%" />
-</p>
+ <p>I focus on <b>Information Technology</b>, <b>Web Development</b>, <b>Programming</b>, <b>Data Analysis</b>, <b>Digital Design</b>, and <b>Project Management</b>.</p>
+
 
 <div align="center">
 
@@ -21,30 +20,6 @@
 </p>
 
 ---
-
-## 💜 Get to know me!
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>I focus on <b>Information Technology</b>, <b>Web Development</b>, <b>Programming</b>, <b>Data Analysis</b>, <b>Digital Design</b>, and <b>Project Management</b>.</p>
-      
-      <blockquote>
-        <i>"I enjoy combining my technical knowledge with artistic skills to develop innovative, functional, and visually appealing solutions."</i>
-      </blockquote>
-
-      <ul>
-        <li>🌐 <b>Languages:</b>
-          <ul>
-            <li><b>Spanish:</b> Native</li>
-            <li><b>English:</b> Advanced</li>
-          </ul>
-        </li>
-        <li>🎨 <b>Interests:</b> Web development, data visualization, digital illustration, and creative UI/UX.</li>
-        <li>🎭 <i>Also... I really like Rui Kamishiro!</i></li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/MileyNT/MileyNT/main/assets/avatar.png" width="180px" alt="Avatar / Illustration" style="border-radius:50%;" />
     </td>
   </tr>
