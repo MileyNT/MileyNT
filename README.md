@@ -1,6 +1,12 @@
 # <div align="center">✨ Hi there, I'm MileyNT! ✨</div>
 
- <p>I focus on <b>Information Technology</b>, <b>Web Development</b>, <b>Programming</b>, <b>Data Analysis</b>, <b>Digital Design</b>, and <b>Project Management</b>.</p>
+ <p>I focus on
+ <b>Information Technology</b>, 
+<b>Web Development</b>,
+ <b>Programming</b>,
+ <b>Data Analysis</b>,
+ <b>Digital Design</b>, and 
+<b>Project Management</b>.</p>
 
 
 <div align="center">
@@ -20,11 +26,7 @@
 </p>
 
 ---
-      <img src="https://raw.githubusercontent.com/MileyNT/MileyNT/main/assets/avatar.png" width="180px" alt="Avatar / Illustration" style="border-radius:50%;" />
-    </td>
-  </tr>
-</table>
-
+     
 ---
 
 ## 🛠️ Technical Skills & Tools
