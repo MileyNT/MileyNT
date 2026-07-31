@@ -1,4 +1,4 @@
-# <div align="center">✨ Hi there, I'm MileyNT! ✨</div>
+# <div align="center"> Hi there, I'm MileyNT! </div>
 
  <p>I focus on
  <b>Information Technology</b>, 
