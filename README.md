@@ -4,7 +4,6 @@
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank">MileyNT</a></b>.
     <br>I'm a Information Technology Student from Jalisco, Mexico.<br>
 </samp>
-  <img src="" width="200">
 </p>
 <details align="center">
 <summary> <b> <samp> ( ꩜ ᯅ ꩜;)⁭ ⁭ </samp></b></summary>
